@@ -33,12 +33,12 @@ order: 4
   - 한국소프트웨어 종합학술대회 우수상 - Digital Signage 관리솔루션 인증 우회 취약점과 IR Relay 공격을 이용한 보안 위협 시나리오 연구, 2020.02.13
   - 제 18회 임베디드 소프트웨어 경진대회 우수상 (Team RORA), 2020.12.23
 - **BUG BOUNTY**
-  - `KVE-2017-1052`, Gnuboard: open redirect
+  - `KVE-2017-1052`, Gnuboard: Open redirect
   - `LVE-HID-190005`, webOS: Memory corruption to DoS
   - `LVE-HID-190006`, webOS: Information leakage
   - `LVE-HID-190007`, webOS: Local privilege escalation
   - `LVE-HID-190008`, webOS: Local privilege escalation
   - `LVE-HID-190009`, webOS: Local privilege escalation
-  - `CVE Reserved`, NDA:  Remote code execution
+  - `CVE-2021-29083`, Synology:  Remote code execution
 
 
